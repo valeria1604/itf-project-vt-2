@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Main {
+public class Main{
 
     public static final int COLUMNS_COUNT = 2;
 
