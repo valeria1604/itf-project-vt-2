@@ -1,0 +1,19 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven
+log/
+target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Mac
+.DS_Store
+/src/main/resources/log
